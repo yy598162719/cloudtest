@@ -1,0 +1,23 @@
+
+E
+sc-f-chapter1/pom.xml,c\8\c87947bda2bbb18f3e647da616055d21b317ea08
+S
+#sc-f-chapter1/eureka-server/pom.xml,8\d\8d0ec868e796bbcd684731548c4274488b829792
+P
+ sc-f-chapter1/service-hi/pom.xml,7\9\7986be6054c617396aaae66bd7f4265fd1d28797
+O
+sc-f-chapter1/sc-f-chapter1.iml,8\5\85bab9131e2967459a55e1aea643be666ddf24ac
+j
+:sc-f-chapter1/eureka-server/main/resources/application.yml,7\9\796be5c89e1853c3f50b663d961569bee7a33d66
+}
+Msc-f-chapter1/service-ribbon/src/main/java/com/forezp/web/HelloControler.java,6\1\6125c64c06987399c483767289dfb0bc71a18e92
+}
+Msc-f-chapter1/eureka-server/main/java/com/forezp/EurekaServerApplication.java,a\7\a721105e458da19bc94b40265bf1d81ea87942e7
+T
+$sc-f-chapter1/service-ribbon/pom.xml,c\a\cac5231766310eb476e11cec71b48104e62d8136
+ƒ
+Ssc-f-chapter1/service-ribbon/src/main/java/com/forezp/ServiceRibbonApplication.java,4\1\413b88d5dca086f6d8517effc0d1e178e761f4e2
+…
+Usc-f-chapter1/service-hi/src/main/java/com/forezp/servicehi/ServiceHiApplication.java,d\b\db9fdb3d6c89b08597a773415994611362bfcd1f
+
+Osc-f-chapter1/service-ribbon/src/main/java/com/forezp/service/HelloService.java,c\6\c6e7d672548be4708ab298c62e636e9d6e75421d
