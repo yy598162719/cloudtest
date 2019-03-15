@@ -3,8 +3,9 @@
   <component name="Encoding" addBOMForNewFiles="with NO BOM">
     <file url="file://$PROJECT_DIR$/sc-f-chapter1" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/sc-f-chapter1/eureka-server" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/sc-f-chapter1/service-hi" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sc-f-chapter1/serice-feign" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/sc-f-chapter1/service-hi" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/sc-f-chapter1/service-ribbon" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sc-f-chapter1/service-zuul" charset="UTF-8" />
   </component>
 </project>
